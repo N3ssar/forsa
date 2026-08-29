@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Forsa",
+  title: "FORSA",
   description: "Job board interview assistant",
 };
 
